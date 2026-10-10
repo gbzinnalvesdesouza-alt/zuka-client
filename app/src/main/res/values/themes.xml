@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ZukaClient" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6A1B9A</item>
+        <item name="colorPrimaryVariant">#4A148C</item>
+        <item name="colorSecondary">#7C4DFF</item>
+        <item name="android:statusBarColor">#0F0F12</item>
+        <item name="android:navigationBarColor">#0F0F12</item>
+        <item name="android:windowBackground">#0F0F12</item>
+    </style>
+</resources>
